@@ -75,3 +75,9 @@ p {
   font-size: 142%;
   margin-top: 1.3%;
 }
+
+#language-options {
+  font-size: 2.4em;
+  text-align: center;
+  margin: 19% 0 1% 0;
+}
